@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 	float total = 0, correctness, points, cpoint, style;
 	const float Question_Grade = finalGrade / N;
 
-	sleep(2);
+	sleep(1);
 	printf("\n");
 
 	for (int i = 0; i < N; ++i)
